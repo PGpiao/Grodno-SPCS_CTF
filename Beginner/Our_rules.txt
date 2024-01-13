@@ -1,0 +1,24 @@
+Read our rules. They are simple.
+
+New Year 2023 CTF was developed by a student of the Department of System Programming and Computer Security of Grodno State University, Grodno, Belarus.
+We have been holding “New Year’s Quest” and other CTF competitions for almost 10 years. This time we wanted to attract not only Belarusian, but also international participants and introduce them to our country.
+
+Please treat others with respect. This is the prime directive. We are for professional communication. Jokes and memes are okay too. If you notice any violations of the Prime Directive, please report it to our team. Our goal is to give everyone the opportunity to have fun and grow.
+
+This is a team competition. Cooperation between teams is not encouraged until the end of the event (January 14 at 20:00 UTC
++3). Sending flags in chat is NOT allowed. Please wait to post reviews after the competition ends.
+
+Don't ask for tips. Believe in yourself.
+
+No attacks on competitors/CTF infrastructure (DoS/DDoS). None of the tasks require automated brute force or vulnerability scanning. All problems can be solved.
+
+The flag format will be grodno{}.
+
+Failure to follow the rules may result in a ban or disqualification.
+
+Sample Flag -
+grodno{our_flag_format_is grodno{grodno{grodno{grodno{grodno{...}}}}}}
+ 
+I hope everyone agrees with these rules.
+
+Good luck!
